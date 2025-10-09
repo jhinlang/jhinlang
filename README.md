@@ -3,35 +3,35 @@
 
 Je débute ma première année en tant que apprenti développeur à l'école d'Holberton. J'envisage de continuer en alternance spécialité ia /LLM.
 
-
+![image holberton school]("C:\Users\julie\Downloads\README image.png")
 
 ## :computer: Réseaux
 
 Site web (Arrive prochainement)
-LinkedIn
+[Mon LinkedIn](https://www.linkedin.com/in/julienhinlanggestionnaire/)
 
 ## :scroll: Experiences professionnelles
-**Comptable et gestionnaire de paie** - *Agileva La Rochelle* (2020 - 2025)
+* **Comptable et gestionnaire de paie** - *Agileva La Rochelle* (2020 - 2025)
 
 
 ## :mortar_board: Etudes
-**Lycée Rive gauche** *Toulouse* 2018-2019 : BTS Comptabilité Gestion
+* **Lycée Rive gauche** *Toulouse* 2018-2019 : BTS Comptabilité Gestion
 
-**Lycée Claude Nougaro** *Caussade* 2015-2017 : BAC ES spé maths
+* **Lycée Claude Nougaro** *Caussade* 2015-2017 : BAC ES spé maths
 
 ## :computer: Compétences techniques
 
-### Langages&Frameworks
+### Langages & Frameworks
 
-### Outils&DevOps
+### Outils & DevOps
 
 ## :hammer: Projets en vedette
-**README**
+* **README**
 
 ## :earth_americas: Langues
-**Français** *Natif*
-**Anglais** *Professionnel*
-**Espagnol** *Elementaire*
+* **Français** *Natif*
+* **Anglais** *Professionnel*
+* **Espagnol** *Elementaire*
 
 ## :phone: Contact
 
