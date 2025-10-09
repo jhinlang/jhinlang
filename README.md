@@ -21,9 +21,9 @@ LinkedIn
 
 ## :computer: Compétences techniques
 
-###Langages&Frameworks
+### Langages&Frameworks
 
-###Outils&DevOps
+### Outils&DevOps
 
 ## :hammer: Projets en vedette
 **README**
