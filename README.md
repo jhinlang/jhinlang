@@ -1,7 +1,7 @@
 # :wave: Salut moi c'est Julien Hinlang
 
 
-Je débute ma première année en tant que apprenti développeur à l'école d'Holberton. J'envisage de continuer en alternance spécialité ia /LLM.
+Je débute ma première année en tant qu' apprenti développeur à l'école d'Holberton. J'envisage de continuer en alternance spécialité ia /LLM.
 
 ![image de toulouse](https://a.travel-assets.com/findyours-php/viewfinder/images/res70/266000/266381-Toulouse.jpg)
 
