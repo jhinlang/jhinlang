@@ -1,7 +1,7 @@
 # :wave: Salut moi c'est Julien Hinlang
 
 
-Je débute ma première année en tant qu' apprenti développeur à l'école d'Holberton. J'envisage de continuer en alternance spécialité ia /LLM. Pourcette année 2025-2026, je me fixe comme objectif l'obtention du RNCP5 avec Holberton ainsi que des certificats en python et ia. J'aimerais également pouvoir m'exercer sur des projets ia.
+Je débute ma première année en tant qu' apprenti développeur à l'école d'Holberton. J'envisage de continuer en alternance spécialité cybersécurité. Pourcette année 2025-2026, je me fixe comme objectif l'obtention du RNCP5 avec Holberton ainsi que des certificats en cybersécurité. J'aimerais également pouvoir m'exercer sur des projets cybersécurité.
 
 ![image de toulouse](https://a.travel-assets.com/findyours-php/viewfinder/images/res70/266000/266381-Toulouse.jpg)
 
